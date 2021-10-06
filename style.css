@@ -1,0 +1,21 @@
+body{
+    background: #e2a6e3;
+    color: white;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects{
+    color: black;
+}
+
+#result_object_name{
+  color: navy;
+}
+
+#result_object_accuracy{
+    color: maroon;
+}
